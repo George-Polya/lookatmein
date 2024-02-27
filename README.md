@@ -85,11 +85,6 @@
     ![쌍꺼풀 성형 시연](readmeSource/쌍꺼풀_성형_시연.gif)
     
 
-## 📽️ UCC
-
----
-
-![10기_공통PJT_UCC_B206.gif](readmeSource/ucc.gif)
 
 ## 👨‍👩‍👧‍👧 개발멤버 소개
 
